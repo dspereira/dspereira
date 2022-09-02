@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-#### My name is Diogo and I'm an electrical engineer currently studying at 42Lisboa aiming to become a software developer
+#### My name is Diogo and I'm an Electrical Engineer currently studying at <a href="https://www.42lisboa.com/">42 Lisboa</a> aiming to become a software developer
 
-- 🔭 I'm studying software engineering at 42Lisboa
+- 🔭 I'm studying Software Engineering at <a href="https://www.42lisboa.com/">42 Lisboa</a>
 - 🌱 I'm currently learning C++,JavaScript and node.js
 - 👀 I'm interested in full stack web development
 - 📫 How to reach me: diogo.s.pereira@outlook.pt
