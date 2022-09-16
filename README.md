@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there I'm Diogo Pereira 👋
 
-
-#### My name is Diogo Pereira and I'm an Electrical Engineer currently studying at <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a> aiming to become a software developer
 
 - 🔭 I'm studying Software Engineering at <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a>
 - 🌱 I'm currently learning C++, JavaScript and node.js
