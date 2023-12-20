@@ -1,7 +1,7 @@
 ### Hi there I'm Diogo Pereira 👋
 
 - 🔭 I'm studying Software Engineering at <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a>
-- 🌱 I'm currently learning C++, JavaScript and node.js
+- 🌱 I'm currently learning C++, JavaScript, node.js, Python and Django 
 - 💻 I'm interested in Back End Development
 - 📫 How to reach me: diogo.s.pereira@outlook.pt
 
