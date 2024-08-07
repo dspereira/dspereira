@@ -7,8 +7,9 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/dspereira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dspereira&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dspereira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
