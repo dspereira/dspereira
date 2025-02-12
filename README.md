@@ -1,8 +1,8 @@
 ### Hi there I'm Diogo Pereira 👋
 
-- 🔭 I'm studying Software Engineering at <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a>
-- 🌱 I'm currently learning C++, HTML, CSS, JavaScript, node.js, Python and Django 
-- 💻 I'm interested in Full Stack Development
+- 🔭 I'm a Software Developer and a <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a> graduate.
+- 🌱 I'm currently learning React and improving my HTML and CSS skills.
+- 💻 I'm interested in web development, with a focus on frontend development.
 - 📫 How to reach me: diogo.pereira.ee@gmail.com
 
 ##
