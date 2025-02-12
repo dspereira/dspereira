@@ -3,7 +3,7 @@
 - 🔭 I'm studying Software Engineering at <a href="https://www.42lisboa.com/" target="_blank">42 Lisboa</a>
 - 🌱 I'm currently learning C++, HTML, CSS, JavaScript, node.js, Python and Django 
 - 💻 I'm interested in Full Stack Development
-- 📫 How to reach me: diogo.s.pereira@outlook.pt
+- 📫 How to reach me: diogo.pereira.ee@gmail.com
 
 ##
 
